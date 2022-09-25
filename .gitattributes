@@ -1,2 +1,3 @@
 bin/polkadot filter=lfs diff=lfs merge=lfs -text
 bin/polkadot-collator filter=lfs diff=lfs merge=lfs -text
+target/release/trappist-collator filter=lfs diff=lfs merge=lfs -text
