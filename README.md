@@ -11,7 +11,7 @@ https://docs.substrate.io/install/
 Build the trappist repository with 
 ```
 git clone -b xcm-demo --depth 1 https://github.com/paritytech/trappist
-cd trappist && cargo build –-release
+cd trappist && cargo build --release
 ```
 
 Leave in the `target/release` folder:
